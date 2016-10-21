@@ -1,4 +1,4 @@
-git
+Git
 ===
 
-Minicurso git
+Minicurso Git
